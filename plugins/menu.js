@@ -45,7 +45,7 @@ const defaultMenu = {
 │ Uptime: *%uptime (%muptime)*
 │ Database: %rtotalreg of %totalreg
 │ Github:
-│ %github
+│ https://github.com/creator-lokpadi/wabot-aq
 ╰────
 %readmore`.trimStart(),
   header: '╭─「 %category 」',
